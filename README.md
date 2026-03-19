@@ -20,7 +20,6 @@ Dự án này thực hiện quy trình Khai phá dữ liệu (Data Mining) trên
 Du-bao-nl/
 ├── README.md                    # Hướng dẫn dự án
 ├── app.py                       # Giao diện báo cáo Streamlit (Dashboard)
-├── AGENTS.md                    # Bộ nhớ dự án
 ├── requirements.txt             # Danh sách thư viện cần thiết
 ├── configs/
 │   └── params.yaml              # Cấu hình tham số mô hình & đường dẫn
@@ -88,8 +87,6 @@ streamlit run app.py
 ---
 
 ## 👥 Tác giả
-- [Tên thành viên 1]
-- [Tên thành viên 2]
-- [Tên thành viên 3]
+- Nguyễn Văn Hưởng
 
-*Dự án được thực hiện cho học phần Khai phá dữ liệu (Data Mining).*
+*Dự án được thực hiện cho học phần Dữ liệu lớn (Big Data).*
