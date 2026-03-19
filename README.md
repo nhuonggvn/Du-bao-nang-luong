@@ -1,4 +1,4 @@
-# Data Mining Project - Household Power Consumption ⚡
+# Data Mining Project - Household Power Consumption 
 
 ## Đề tài 10: Dự báo nhu cầu năng lượng (Energy Demand Forecasting)
 
