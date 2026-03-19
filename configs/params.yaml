@@ -1,0 +1,47 @@
+# Configuration file for Data Mining Project - Topic 10
+
+# Cài đặt chung
+seed: 42
+project_name: "household_power_consumption"
+
+# Dường dẫn dữ liệu
+data:
+  raw_path: "household_power_consumption.txt"
+  processed_path: "data/processed/cleaned_data.csv"
+  
+# Tiền xử lý (Preprocessing)
+preprocessing:
+  missing_value_symbol: "?"
+  separator: ";"
+  interpolation_method: "linear"
+  timestamp_format: "%d/%m/%Y %H:%M:%S"
+
+# Phân tích luật kết hợp (Association Rules)
+association:
+  min_support: 0.01
+  min_confidence: 0.5
+  min_lift: 1.0
+  discretization_bins: 3  # Low, Medium, High
+
+# Phân cụm (Clustering)
+clustering:
+  n_clusters: 5
+  algorithm: "kmeans"  # kmeans, dbscan, hierarchical
+  random_state: 42
+  
+# Dự đoán chuỗi thời gian (Forecasting)
+forecasting:
+  test_size: 0.2  # Last 20% of data for testing
+  seasonal_period: 24  # Hourly data, 24 hours in a day
+  
+# Phát hiện ngoại lệ (Anomaly Detection)
+anomaly:
+  method: "isolation_forest"  # isolation_forest, statistical
+  contamination: 0.05
+  z_threshold: 3.0
+
+# Đường dẫn output
+outputs:
+  figures: "outputs/figures/"
+  tables: "outputs/tables/"
+  models: "outputs/models/"

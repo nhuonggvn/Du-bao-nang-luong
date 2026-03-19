@@ -1,0 +1,11 @@
+/.DS_Store
+/AGENTS.md
+/HƯỚNG DẪN THỰC HIỆN BÀI TẬP LỚN DATA MINING.Rmd
+/HƯỚNG-DẪN-THỰC-HIỆN-BÀI-TẬP-LỚN-DATA-MINING.pdf
+/Mẫu BTL.docx
+code_review.md
+/household_power_consumption.txt
+data/processed/*.
+csvdata/
+*.csv
+*.txt
