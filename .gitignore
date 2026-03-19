@@ -11,7 +11,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Dữ liệu và kết quả lớn
-data/processed/
+data/processed/cleaned_data.csv
 
 # Hệ thống macOS/VSCode
 .DS_Store
