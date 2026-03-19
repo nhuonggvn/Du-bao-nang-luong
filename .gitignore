@@ -1,4 +1,22 @@
-/.DS_Store
+# Môi trường ảo
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dữ liệu và kết quả lớn
+data/processed/
+
+# Hệ thống macOS/VSCode
+.DS_Store
+.vscode/
+
 /AGENTS.md
 /HƯỚNG DẪN THỰC HIỆN BÀI TẬP LỚN DATA MINING.Rmd
 /HƯỚNG-DẪN-THỰC-HIỆN-BÀI-TẬP-LỚN-DATA-MINING.pdf
@@ -6,5 +24,3 @@
 code_review.md
 /household_power_consumption.txt
 csvdata/
-*.csv
-*.txt

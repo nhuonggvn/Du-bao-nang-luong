@@ -1,0 +1,1 @@
+Phân tích Bất thường:\n- Tổng số ngày quan sát: 1440\n- Số ngày bất thường phát hiện được: 72 (5.00%)\n- Mức tiêu thụ trung bình ngày bình thường: 25.03\n- Mức tiêu thụ trung bình ngày bất thường: 47.63\n=> Đa số các điểm bất thường là những ngày tiêu thụ CAO đột biến (có thể do lễ tết, thời tiết cực đoan, hoặc hệ thống làm mát/sưởi ấm hoạt động quá công suất).

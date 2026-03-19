@@ -1,0 +1,21 @@
+antecedents,consequents,support,confidence,lift
+"Power_Level_Medium, SubMeter1_Level_High","Intensity_Level_Medium, Day_Type_Weekday, Hour_Period_Morning, SubMeter2_Level_Low",0.0101,0.6392,30.44
+"Intensity_Level_Medium, SubMeter1_Level_High","Power_Level_Medium, Day_Type_Weekday, Hour_Period_Morning, SubMeter2_Level_Low",0.0101,0.6392,29.1891
+"Power_Level_Medium, SubMeter1_Level_High","Intensity_Level_Medium, Day_Type_Weekday, Hour_Period_Morning",0.0102,0.6456,21.591
+"Power_Level_Medium, SubMeter1_Level_High, SubMeter2_Level_Low","Intensity_Level_Medium, Day_Type_Weekday, Hour_Period_Morning",0.0101,0.6433,21.5155
+"Intensity_Level_Medium, SubMeter1_Level_High, SubMeter2_Level_Low","Power_Level_Medium, Day_Type_Weekday, Hour_Period_Morning",0.0101,0.6474,21.158
+"Intensity_Level_Medium, SubMeter1_Level_High","Power_Level_Medium, Day_Type_Weekday, Hour_Period_Morning",0.0102,0.6456,21.097
+"SubMeter1_Level_High, SubMeter2_Level_Low","Intensity_Level_Medium, Power_Level_Medium, Day_Type_Weekday, Hour_Period_Morning",0.0101,0.5316,17.8983
+"SubMeter1_Level_High, SubMeter2_Level_Low","Intensity_Level_Medium, Day_Type_Weekday, Hour_Period_Morning",0.0101,0.5316,17.7786
+"SubMeter1_Level_High, SubMeter2_Level_Low","Power_Level_Medium, Day_Type_Weekday, Hour_Period_Morning",0.0102,0.5368,17.5439
+"Day_Type_Weekday, Power_Level_Medium, SubMeter1_Level_High","Intensity_Level_Medium, Hour_Period_Morning, SubMeter2_Level_Low",0.0101,0.8417,17.212
+"Intensity_Level_Medium, SubMeter1_Level_High, Day_Type_Weekday","Power_Level_Medium, Hour_Period_Morning, SubMeter2_Level_Low",0.0101,0.8417,16.2484
+"Power_Level_Medium, SubMeter3_Level_High, SubMeter2_Level_Medium","Intensity_Level_Medium, Hour_Period_Morning",0.01,0.9709,15.9683
+"Power_Level_Medium, SubMeter3_Level_High, SubMeter1_Level_High","Intensity_Level_Medium, Hour_Period_Morning, SubMeter2_Level_Low",0.0106,0.7737,15.8225
+"Power_Level_Medium, SubMeter1_Level_High","Intensity_Level_Medium, SubMeter3_Level_High, Hour_Period_Morning, SubMeter2_Level_Low",0.0106,0.6709,15.5298
+"Intensity_Level_Medium, SubMeter1_Level_High","Power_Level_Medium, SubMeter3_Level_High, Hour_Period_Morning, SubMeter2_Level_Low",0.0106,0.6709,15.2474
+"Power_Level_Medium, SubMeter1_Level_High","Intensity_Level_Medium, Hour_Period_Morning, SubMeter2_Level_Low",0.0116,0.7342,15.0138
+"Intensity_Level_Medium, SubMeter3_Level_High, SubMeter2_Level_Medium","Power_Level_Medium, Hour_Period_Morning",0.01,0.9524,14.9981
+"Intensity_Level_Medium, SubMeter3_Level_High, SubMeter1_Level_High","Power_Level_Medium, Hour_Period_Morning, SubMeter2_Level_Low",0.0106,0.7626,14.7218
+"Intensity_Level_Medium, SubMeter1_Level_High","Power_Level_Medium, Hour_Period_Morning, SubMeter2_Level_Low",0.0116,0.7342,14.1733
+"Day_Type_Weekday, Power_Level_Medium, SubMeter1_Level_High","Intensity_Level_Medium, Hour_Period_Morning",0.0102,0.85,13.9803
