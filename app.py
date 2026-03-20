@@ -81,7 +81,7 @@ with tab1:
     st.divider()
     st.markdown("### Đặc điểm Mùa & Chu kỳ thay đổi (Seasonality)")
     with st.container(border=True):
-        load_and_display_image('outputs/figures/daily_pattern.png', "Tính chu kỳ thời gian biến đổi trong ngày/tuần/tháng")
+        load_and_display_image('outputs/figures/daily_pattern.png', "Tính chu kỳ thời gian biến đổi trong ngày")
 
 with tab2:
     st.header("Cấu trúc Giỏ Hàng Điện Năng (Apriori Rules)")

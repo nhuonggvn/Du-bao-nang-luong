@@ -23,4 +23,5 @@ data/processed/cleaned_data.csv
 /Mẫu BTL.docx
 code_review.md
 /household_power_consumption.txt
+/data/raw/household_power_consumption.txt
 csvdata/
